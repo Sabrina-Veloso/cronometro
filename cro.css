@@ -1,0 +1,32 @@
+body {
+    background-color: blueviolet;
+    font: normal 20pt Arial;
+    color: white;
+    margin: 60px;
+    border-radius: 170;
+    padding: 50px;
+    display: block;
+    margin-top: 150px;
+    margin-left: 30%;
+}
+
+#s {
+    height: 30px;
+    width: 65px;
+    background-color: white;
+    border-color: white;
+}
+
+#p {
+    height: 30px;
+    width: 65px;
+    background-color: white;
+    border-color: white;
+}
+
+#r {
+    height: 30px;
+    width: 65px;
+    background-color: white;
+    border-color: white;
+}
